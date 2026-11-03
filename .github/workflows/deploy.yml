@@ -1,4 +1,3 @@
-Isi Kode deploy.yml
 name: Deploy React to GitHub Pages
  
 on:
